@@ -18,13 +18,22 @@ We apply the algorithm described in the recent paper ["Dataset Distillation"](ht
 - **[Dataset Distillation](https://arxiv.org/pdf/1811.10959.pdf)**
 - [GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding](https://arxiv.org/pdf/1804.07461.pdf)
 - [Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank](https://nlp.stanford.edu/~socherr/EMNLP2013_RNTN.pdf)
-
+- [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)
+- [Assessing State-of-the-Art Sentiment Models on State-of-the-Art Sentiment Datasets](http://aclweb.org/anthology/W17-5202)
  
  Repositories:
  
  - **[Author's Code](https://github.com/SsnL/dataset-distillation)**
  - [Deep NLP Models on Pytorch](https://github.com/DSKSD/DeepNLP-models-Pytorch)
  - [Deep NLP Course at ABBYY](https://github.com/DanAnastasyev/DeepNLP-Course)
+ - [BERT Pytorch](https://github.com/dreamgonfly/BERT-pytorch)
+ - [Assessing State-of-the-art Sentiment Models on State-of-the-art Sentiment Datasets](https://github.com/jbarnesspain/sota_sentiment)
  
+ 
+Blog: 
+- [The Illustrated BERT](http://jalammar.github.io/illustrated-bert/?fbclid=IwAR3ISE2gPTBDbE-YW3CE4tqZadHQSmz5w-TQZjRLwevP_nmyHBogX8WrjGo)
+- [Improving a Sentiment Analyzer using ELMo](http://www.realworldnlpbook.com/blog/improving-sentiment-analyzer-using-elmo.html)
+- [NLP Progress](http://nlpprogress.com/english/sentiment_analysis.html)
+
  Datasets :
- - [The Stanford Sentiment Treebank](https://nlp.stanford.edu/sentiment/index.html)
+ - [The Stanford Sentiment Treebank (SST)](https://nlp.stanford.edu/sentiment/index.html)
