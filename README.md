@@ -9,7 +9,7 @@ We apply the algorithm described in the recent paper ["Dataset Distillation"](ht
 ## Authors
 
  - [Alfredo de la Fuente](https://alfo5123.github.io/)
- - [Marina Gomtsyan](https://github.com/marinagomtsian)
+ - [Marina Gomtsyan](https://github.com/mgomtsyan)
  
  ## References 
  
